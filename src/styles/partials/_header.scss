@@ -1,0 +1,25 @@
+.logo-container {
+  // background: rgba(192,192,192, .4);
+}
+
+.logo {
+  background: white;
+  border-radius: 50%;
+  height: 70px;
+  margin: 10px 15px -3px 15px;
+}
+
+.nav {
+  background: #ff4444;
+  margin-right: 0;
+  min-height: 100vh;
+  width: 20%;
+}
+
+main {
+  width: 80%;
+}
+
+body {
+  display: flex;
+}
